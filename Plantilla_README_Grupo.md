@@ -4,8 +4,8 @@
 **Integrantes:**
 - [Gabriel Alejandro Camacho Rivera] - [Código] - [Email]
 - [David Santiago Piñeros Rodriguez] - [00020526922] - [pinerosrdavid@javeriana.edu.co]
-- [Santiago Pineda Mora] - [Código]  - [Email]
-- [Maria Angelica Piedrahita Ramirez] - [Código] - [Email]
+- [Santiago Pineda Mora] - [00020519556]  - [santiago.pineda@javeriana.edu.co]
+- [Maria Angelica Piedrahita Ramirez] - [00020522980] - [mariaapiedrahita@javeriana.edu.co]
 
 **Fecha de entrega:** [19/03/2026] 
 
